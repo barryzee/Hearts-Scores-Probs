@@ -1,0 +1,11 @@
+              PARAMETERS:	          DEBUG	        squash5	       squash10	       squash20	      squash100	          Pmoon	              N	           BIAS	          level	        initial	          final	            del
+        PARAMETER VALUES:	              0	         0.1000	         0.4000	         0.5000	         0.6000	         0.0500	           1000	              1   intermediate	             20	             99	              1
+
+MOON STATS: 10414136 197848751 0.0500048 0.05 
+
+
+TIMING STATS:
+Starting Time 03_07_2019_11_48_20
+Ending Time = 03/08/2019 06:53:10
+19.081 hours
+
