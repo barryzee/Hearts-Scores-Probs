@@ -1,9 +1,9 @@
 #gawk -f testSquash.awk -v dev0=3 -v dev1=11 -v dev2=-5
 
-	# generate interpolated values in squash tabe for 4 players' scores
+	# generate interpolated values in squash table for 4 players' scores
 	# not used in final version of gawk program
 	# used for generating figure 2 in manuscript
-	# and the unnumbered table just uunder figure 2
+	# and the unnumbered table just under figure 2
 
 BEGIN {
 	dev[0]=dev0
